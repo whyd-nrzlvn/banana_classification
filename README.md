@@ -4,10 +4,10 @@
 Proyek ini bertujuan mengembangkan beberapa model Convolutional Neural Network (CNN) untuk mengklasifikasikan tingkat kematangan buah pisang Cavendish berdasarkan gambar. Proyek mencakup 6 model berbeda yang diimplementasikan dalam script Python terpisah.
 
 ## Struktur Folder
-- `models/`    : Folder berisi 6 script Python, masing-masing untuk satu model CNN  
-- `requirements.txt` : Daftar library Python yang diperlukan  
+- `models/`    : Berisi 6 script Python yang dikelompokkan berdasarkan 3 model, dengan masing-masing model terdiri dari 2 script  
+- `requirements.txt` : Daftar library Python yang diperlukan
 - `README.md`  : Dokumentasi proyek  
-- `dataset/`   :  Dataset yang digunakan  
+- `dataset/`   : Berisi Link Dataset yang digunakan  
 
 ## Cara Instalasi
 1. Clone repository ini  
